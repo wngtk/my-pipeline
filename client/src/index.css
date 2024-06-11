@@ -1,0 +1,14 @@
+.notification {
+  border: 4px solid green;
+  padding: 8px;
+}
+
+.blog-container {
+  border: 1px solid black;
+  padding: 8px 16px;
+  margin: 8px auto;
+}
+
+.blog-container p {
+  margin: 0;
+}
